@@ -1,0 +1,9 @@
+{
+	"description": "Mwavuli Website",
+	"name": "mwavuli",
+	"type": "project",
+	"homepage": "https://www.mwavuli.co.ke/",
+	"require": {
+		"php": ">=5.3.7"
+	}
+}
