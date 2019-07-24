@@ -58,7 +58,7 @@
 					</a>
 				</h1>
 				
-				<div class="search">
+<!-- 				<div class="search">
 						<form id="searchForm" action="page-search-results.html" method="get">
 							<div class="input-group">
 								<input type="text" class="form-control search" name="q" id="q" placeholder="Search...">
@@ -67,7 +67,7 @@
 								</span>
 							</div>
 						</form>
-					</div>
+					</div> -->
 					<nav>
 						<ul class="nav nav-pills nav-top">
 							<li class="mail">
