@@ -20,6 +20,7 @@ class Pages extends CI_Controller {
 		$this->load->view('pages/'.$page, $data);
 		$this->load->view('layout/footer', $data);
 	}
+<<<<<<< HEAD
 
 	public function subscribe() {
 
@@ -69,4 +70,6 @@ class Pages extends CI_Controller {
 			
 		redirect('/contact');
 	}
+=======
+>>>>>>> 4635bf7af6aef90ba6c194c63a6f92b4e5a3f688
 }

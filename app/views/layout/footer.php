@@ -12,9 +12,15 @@
 
 								<div class="alert alert-danger hidden" id="newsletterError"></div>
 
+<<<<<<< HEAD
 								<form action="<?= base_url('pages/subscribe'); ?>" method="POST">
 									<div class="input-group">
 										<input class="form-control" placeholder="Email Address" name="email" type="email" required>
+=======
+								<form id="newsletterForm" action="php/newsletter-subscribe.php" method="POST">
+									<div class="input-group">
+										<input class="form-control" placeholder="Email Address" name="email" id="email" type="text">
+>>>>>>> 4635bf7af6aef90ba6c194c63a6f92b4e5a3f688
 										<span class="input-group-btn">
 											<button class="btn btn-default" type="submit">Go!</button>
 										</span>

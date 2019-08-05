@@ -58,8 +58,13 @@
 					</a>
 				</h1>
 				
+<<<<<<< HEAD
 					<div class="search">
 						<form id="searchForm" action="search" method="get">
+=======
+<!-- 				<div class="search">
+						<form id="searchForm" action="page-search-results.html" method="get">
+>>>>>>> 4635bf7af6aef90ba6c194c63a6f92b4e5a3f688
 							<div class="input-group">
 								<input type="text" class="form-control search" name="q" id="q" placeholder="Search...">
 								<span class="input-group-btn">
@@ -67,7 +72,11 @@
 								</span>
 							</div>
 						</form>
+<<<<<<< HEAD
 					</div>
+=======
+					</div> -->
+>>>>>>> 4635bf7af6aef90ba6c194c63a6f92b4e5a3f688
 					<nav>
 						<ul class="nav nav-pills nav-top">
 							<li class="mail">
