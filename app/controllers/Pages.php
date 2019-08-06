@@ -43,10 +43,10 @@ class Pages extends CI_Controller {
 
 		$config = array (
 			'protocol' => 'smtp',
-			'smtp_host' => 'smtp host', //ssl://smtp.googlemail.com
+			'smtp_host' => 'ssl://smtp.googlemail.com', //ssl://smtp.googlemail.com
 			'smpt_port' => '465',
-			'smtp_user' => 'email@mail.com',
-			'smtp_pass' => 'Password',
+			'smtp_user' => 'it@actserv.co.ke',
+			'smtp_pass' => '@ctserv!7*',
 			'mailtype' => 'html',
 			'charset' => 'iso-8859-1',
 			'wordwrap' => TRUE,
