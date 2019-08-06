@@ -7,15 +7,12 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-<<<<<<< HEAD
 	'username' => 'root',
 	'password' => '',
 	'database' => 'mwavuli',
-=======
 	'username' => '',
 	'password' => '',
 	'database' => '',
->>>>>>> 4635bf7af6aef90ba6c194c63a6f92b4e5a3f688
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

@@ -11,7 +11,6 @@
             </div>
         </div>
     </section> -->
-<<<<<<< HEAD
     <div class="center">
         <?php if($this->session->flashdata('error')): ?>
             <div class="alert alert-danger alert-dismissible alert-mg-b-0" role="alert">
@@ -29,8 +28,6 @@
             </div>
         <?php endif; ?>
     </div>
-=======
->>>>>>> 4635bf7af6aef90ba6c194c63a6f92b4e5a3f688
 
     <hr class="tall">
     
@@ -57,28 +54,16 @@
                 </div>
 
                 <h2 class="short"><strong>Contact</strong> Us</h2>
-<<<<<<< HEAD
                 <?= form_open('pages/contact'); ?>
-=======
-                <form action="php/contact-form.php" id="contactForm" type="post">
->>>>>>> 4635bf7af6aef90ba6c194c63a6f92b4e5a3f688
                     <div class="row">
                         <div class="form-group">
                             <div class="col-md-6">
                                 <label>Your name *</label>
-<<<<<<< HEAD
                                 <input type="text" data-msg-required="Please enter your name." maxlength="100" class="form-control" name="name">
                             </div>
                             <div class="col-md-6">
                                 <label>Your email address *</label>
                                 <input type="email" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control" name="email">
-=======
-                                <input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control" name="name" id="name">
-                            </div>
-                            <div class="col-md-6">
-                                <label>Your email address *</label>
-                                <input type="email" value="" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control" name="email" id="email">
->>>>>>> 4635bf7af6aef90ba6c194c63a6f92b4e5a3f688
                             </div>
                         </div>
                     </div>
@@ -86,11 +71,7 @@
                         <div class="form-group">
                             <div class="col-md-12">
                                 <label>Subject</label>
-<<<<<<< HEAD
                                 <input type="text" data-msg-required="Please enter the subject." maxlength="100" class="form-control" name="subject">
-=======
-                                <input type="text" value="" data-msg-required="Please enter the subject." maxlength="100" class="form-control" name="subject" id="subject">
->>>>>>> 4635bf7af6aef90ba6c194c63a6f92b4e5a3f688
                             </div>
                         </div>
                     </div>
@@ -98,11 +79,7 @@
                         <div class="form-group">
                             <div class="col-md-12">
                                 <label>Message *</label>
-<<<<<<< HEAD
                                 <textarea maxlength="5000" data-msg-required="Please enter your message." rows="10" class="form-control" name="message"></textarea>
-=======
-                                <textarea maxlength="5000" data-msg-required="Please enter your message." rows="10" class="form-control" name="message" id="message"></textarea>
->>>>>>> 4635bf7af6aef90ba6c194c63a6f92b4e5a3f688
                             </div>
                         </div>
                     </div>

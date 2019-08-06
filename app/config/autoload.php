@@ -58,12 +58,7 @@ $autoload['packages'] = array();
 |
 |	$autoload['libraries'] = array('user_agent' => 'ua');
 */
-<<<<<<< HEAD
 $autoload['libraries'] = array('database', 'form_validation', 'session', 'email');
-=======
-$autoload['libraries'] = array();
->>>>>>> 4635bf7af6aef90ba6c194c63a6f92b4e5a3f688
-
 /*
 | -------------------------------------------------------------------
 |  Auto-load Drivers
@@ -93,12 +88,7 @@ $autoload['drivers'] = array();
 |
 |	$autoload['helper'] = array('url', 'file');
 */
-<<<<<<< HEAD
 $autoload['helper'] = array('url', 'file', 'form');
-=======
-$autoload['helper'] = array('url', 'file');
->>>>>>> 4635bf7af6aef90ba6c194c63a6f92b4e5a3f688
-
 /*
 | -------------------------------------------------------------------
 |  Auto-load Config files
@@ -140,8 +130,4 @@ $autoload['language'] = array();
 |
 |	$autoload['model'] = array('first_model' => 'first');
 */
-<<<<<<< HEAD
 $autoload['model'] = array('subscribe' => 'sub');
-=======
-$autoload['model'] = array();
->>>>>>> 4635bf7af6aef90ba6c194c63a6f92b4e5a3f688

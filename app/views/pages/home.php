@@ -1,6 +1,5 @@
 <div role="main" class="main">
 
-<<<<<<< HEAD
     <div class="center">
         <?php if($this->session->flashdata('error')): ?>
             <div class="alert alert-danger alert-dismissible alert-mg-b-0" role="alert">
@@ -20,10 +19,6 @@
     </div>
 
     <hr class="tall">
-=======
-    <hr class="tall">
-    
->>>>>>> 4635bf7af6aef90ba6c194c63a6f92b4e5a3f688
     <div id="content" class="content full">
         <div class="slider-container light">
             <div class="slider" id="revolutionSlider">

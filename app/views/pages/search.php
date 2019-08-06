@@ -40,42 +40,34 @@
                 <ul class="simple-post-list m-0">
                     <li>
                         <div class="post-info">
-                            <a href="#"><b><h4>Mwavuli Protect</h4></b></a>
+                            <a href="<?= base_url('/products/protect'); ?>"><b><h4>Mwavuli Protect</h4></b></a>
                         </div>
                     </li>
                     <li>
                         <div class="post-info">
-                            <a href="#"><b><h4>Mwavuli Protect</h4></b></a>
+                            <a href="<?= base_url('/products/financing'); ?>"><b><h4>Mwavuli Financing</h4></b></a>
                         </div>
                     </li>
                     <li>
                         <div class="post-info">
-                            <a href="#"><b><h4>Mwavuli Financing</h4></b></a>
+                            <a href="<?= base_url('/products/investment'); ?>"><b><h4>Mwavuli Investment</h4></b></a>
                         </div>
                     </li>
                     <li>
                         <div class="post-info">
-                            <a href="#"><b><h4>Mwavuli Investment</h4></b></a>
+                            <a href="<?= base_url('products/pension/IPF'); ?>"><b><h4>Mwavuli Individual Pension Fund</h4></b></a>
                         </div>
                     </li>
                     <li>
                         <div class="post-info">
-                            <a href="#"><b><h4>Mwavuli Individual Pension Fund</h4></b></a>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="post-info">
-                            <a href="#"><b><h4>Mwavuli Pension Fund</h4></b></a>
+                            <a href="<?= base_url('products/pension'); ?>"><b><h4>Mwavuli Pension</h4></b></a>
                         </div>
                         <ul>
                             <div class="post-info">
-                                <a href="#"><h5>Mwavuli pension fund</h5></a>
+                                <a href="<?= base_url('products/pension/IPP'); ?>"><h5>Mwavuli pension fund</h5></a>
                             </div>
                             <div class="post-info">
-                                <a href="#"><h5>Mwavuli Income Drawdown</h5></a>
-                            </div>
-                            <div class="post-info">
-                                <a href="#"><h5>Mwavuli Income Drawdown</h5></a>
+                                <a href="<?= base_url('products/pension/IDD'); ?>"><h5>Mwavuli Income Drawdown</h5></a>
                             </div>
                         </ul>
                     </li>
